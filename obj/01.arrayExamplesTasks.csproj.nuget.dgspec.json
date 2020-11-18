@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bla\\source\\repos\\01.arrayExamplesTasks\\01.arrayExamplesTasks\\01.arrayExamplesTasks.csproj": {}
+    "D:\\QA__\\GitProjects\\OneDimensionalArrays\\01.arrayExamplesTasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bla\\source\\repos\\01.arrayExamplesTasks\\01.arrayExamplesTasks\\01.arrayExamplesTasks.csproj": {
+    "D:\\QA__\\GitProjects\\OneDimensionalArrays\\01.arrayExamplesTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\01.arrayExamplesTasks\\01.arrayExamplesTasks\\01.arrayExamplesTasks.csproj",
+        "projectUniqueName": "D:\\QA__\\GitProjects\\OneDimensionalArrays\\01.arrayExamplesTasks.csproj",
         "projectName": "01.arrayExamplesTasks",
-        "projectPath": "C:\\Users\\Bla\\source\\repos\\01.arrayExamplesTasks\\01.arrayExamplesTasks\\01.arrayExamplesTasks.csproj",
+        "projectPath": "D:\\QA__\\GitProjects\\OneDimensionalArrays\\01.arrayExamplesTasks.csproj",
         "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bla\\source\\repos\\01.arrayExamplesTasks\\01.arrayExamplesTasks\\obj\\",
+        "outputPath": "D:\\QA__\\GitProjects\\OneDimensionalArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",

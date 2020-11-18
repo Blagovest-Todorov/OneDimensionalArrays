@@ -6,16 +6,15 @@ namespace _01.arrayExamplesTasks
 {
     class Program
     {
-        static void  Main(string[] args)
-       {
-            int[] numbers = Enumerable.Range(1, 10).ToArray();
-            
-            for (int i = 1; i < numbers.Length ; i*= 2, i++)
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Reversed : ");
+            int[] array = {1, 2, 3, 4, 6, 5, 7, 8 };
+            for (int i = array.Length - 1; i>=0 ; i--)
             {
-                //numbers[i] = i * i;
-                int number = numbers[i];
-                
-                Console.WriteLine("index : {0}-> number :{1}",i, number);
+                int elements = array[i];
+                Console.WriteLine("index number {0} -> items value {1}", i, elements);
             }
         }
     }

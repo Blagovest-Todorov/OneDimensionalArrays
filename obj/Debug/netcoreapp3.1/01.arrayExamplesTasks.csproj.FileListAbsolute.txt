@@ -11,3 +11,16 @@ C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\
 C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.dll
 C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.pdb
 C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.genruntimeconfig.cache
+D:\QA__\GitProjects\OneDimensionalArrays\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.exe
+D:\QA__\GitProjects\OneDimensionalArrays\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.deps.json
+D:\QA__\GitProjects\OneDimensionalArrays\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.runtimeconfig.json
+D:\QA__\GitProjects\OneDimensionalArrays\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.runtimeconfig.dev.json
+D:\QA__\GitProjects\OneDimensionalArrays\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.dll
+D:\QA__\GitProjects\OneDimensionalArrays\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.pdb
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.csprojAssemblyReference.cache
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.AssemblyInfo.cs
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.dll
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.pdb
+D:\QA__\GitProjects\OneDimensionalArrays\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.genruntimeconfig.cache
