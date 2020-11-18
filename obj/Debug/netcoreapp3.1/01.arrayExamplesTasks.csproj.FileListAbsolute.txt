@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.exe
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.deps.json
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.runtimeconfig.json
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.dll
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\bin\Debug\netcoreapp3.1\01.arrayExamplesTasks.pdb
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.dll
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.pdb
+C:\Users\Bla\source\repos\01.arrayExamplesTasks\01.arrayExamplesTasks\obj\Debug\netcoreapp3.1\01.arrayExamplesTasks.genruntimeconfig.cache
